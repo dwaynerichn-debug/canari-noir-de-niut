@@ -3,10 +3,6 @@
 
 import { useState } from "react";
 
-export default function ShopPage() {
-  // Your shop page code
-}
-
 const products = [
   {
     id: 1,
